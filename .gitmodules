@@ -1,0 +1,6 @@
+[submodule "PrimePlush"]
+	path = PrimePlush
+	url = https://github.com/MachinePay/PrimePlush.git
+[submodule "BackendPrimePlush"]
+	path = BackendPrimePlush
+	url = https://github.com/MachinePay/BackendPrimePlush.git
